@@ -1,1 +1,0 @@
-# Ngix deployment using helm
